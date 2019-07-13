@@ -2,6 +2,6 @@
 // alertas 
 
 alert("Soy un codigo JavaScript");
-alert("No soy un codigo PHP");
+//alert("No soy un codigo PHP");
 
 </script>
