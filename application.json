@@ -1,5 +1,5 @@
 { "SquadName": "Super hero squad",
   "home": "Cochabamba city",
-  "active": "false",
+  "active": true,
   "formed": 2015,
 }
